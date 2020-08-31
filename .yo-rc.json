@@ -1,0 +1,38 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.gok.elasticupsert"
+    },
+    "jhipsterVersion": "6.10.1",
+    "applicationType": "microservice",
+    "baseName": "elasticupsert",
+    "packageName": "com.gok.elasticupsert",
+    "packageFolder": "com/gok/elasticupsert",
+    "serverPort": "8036",
+    "authenticationType": "oauth2",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "postgresql",
+    "prodDatabaseType": "postgresql",
+    "searchEngine": "elasticsearch",
+    "messageBroker": false,
+    "serviceDiscoveryType": "eureka",
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "ZGYyY2M1MDU4ODJkMjk3ZTA4YWQyZDUwZDM4OTdhZmU1ZDBhMmFlZGU3N2ZhNTY4NTJkYTkyYjk1NzUxNjcwN2IyZWQyNWZhZDM2OTU3OThkYjM0MWY5NGIwN2M1NzIxNDRlOWMwNTE0MmY2YTE1NTViZGIzNTEwNjBiNjE5YmE=",
+    "embeddableLaunchScript": false,
+    "creationTimestamp": 1598872129710,
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": false,
+    "clientPackageManager": "npm",
+    "blueprints": [],
+    "skipClient": true,
+    "skipUserManagement": true
+  }
+}
